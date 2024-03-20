@@ -1,5 +1,7 @@
 # Plush Phone
 
+Link:https://laszbon.github.io/telefon-oldal/
+
 ##User Stories Felhasznaloi tortenetek
 Mint premium felhasznalo(Ki?)
 
