@@ -1,0 +1,30 @@
+
+html{
+    font-size: 10px;
+}
+
+body {
+    font-family: Roboto ,Arial,sans-serif;
+    font-size: 1.6rem;
+}
+
+/*Header*/
+.page-header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.page-menu{
+    display:flex;
+  list-style:none;
+  align-items: center;
+}
+.page-menu-item {
+    margin: 8rem 4rem ;
+
+}
+.page-menu-link {
+    text-decoration: none;
+    color: rgb(1, 1, 29);
+}
